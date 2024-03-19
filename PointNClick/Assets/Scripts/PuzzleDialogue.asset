@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 0}
+  m_Name: PuzzleDialogue
+  m_EditorClassIdentifier: Assembly-CSharp::DialogueObject
+  dialogueLines:
+  - dialogue: This place is seriously creepy but at least it seems to be open?
+  - dialogue: Do you see anybody that works here?
+  - dialogue: Hey what's all that stuff lined up in the corner there?
+  - dialogue: Help me move it out of the way
+  - dialogue: Click and drag the white balls out the way
+  dialogueOwners:
+  - portrait: 
+  - portrait: 
+  - portrait: 
+  dialogueOwnerNames:
+  - name: Kelly
+  - name: Kelly
+  - name: Chris
+  - name: Chris
+  - name: Game System

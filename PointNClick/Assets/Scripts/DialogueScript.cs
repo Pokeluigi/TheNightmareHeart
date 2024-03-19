@@ -13,7 +13,7 @@ public class DialogueLine
 [System.Serializable]
 public class DialogueOwner
 { 
-    [TextArea] public Image portrait;
+    [TextArea] public string portrait;
 }
 [System.Serializable]
 public class DialogueOwnerName
